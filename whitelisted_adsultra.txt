@@ -1,0 +1,13 @@
+0.0.0.0 badges.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 badge.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.facebook.com.domain.name
+0.0.0.0 adsense.google.com
+127.0.0.1 google-analytics.com
+0.0.0.0 googledrive-download.com
+0.0.0.0 googledrive-en.com
+0.0.0.0 googledrive-eu.com
+0.0.0.0 googledrive-gb.com
+0.0.0.0 googlewordpad.info
+127.0.0.1 google-analytics.com
