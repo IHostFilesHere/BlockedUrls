@@ -14,6 +14,8 @@
 #                     --- YouTube Ad Blocklist ---
 # This project was created and is maintained by: Evan Pratten (@ewpratten)
 # More information at: https://github.com/Ewpratten/youtube_ad_blocklist
+0.0.0.0 www.gstatic.com
+0.0.0.0 apis.google.com
 0.0.0.0 adservice.google.com
 0.0.0.0 clients1.google.com
 0.0.0.0 googleadapis.l.google.com
