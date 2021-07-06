@@ -5,15 +5,32 @@
 0.0.0.0 graph.facebook.com.domain.name
 0.0.0.0 adsense.google.com
 127.0.0.1 google-analytics.com
-0.0.0.0 googledrive-download.com
-0.0.0.0 googledrive-en.com
-0.0.0.0 googledrive-eu.com
-0.0.0.0 googledrive-gb.com
-0.0.0.0 googlewordpad.info
+0.0.0.0 i.instagram.com
 #
 #                     --- YouTube Ad Blocklist ---
 # This project was created and is maintained by: Evan Pratten (@ewpratten)
 # More information at: https://github.com/Ewpratten/youtube_ad_blocklist
+0.0.0.0 yt0.ggpht.com 
+0.0.0.0 yt1.ggpht.com 
+0.0.0.0 yt2.ggpht.com 
+0.0.0.0 yt3.ggpht.com 
+0.0.0.0 yt4.ggpht.com 
+0.0.0.0 yt5.ggpht.com 
+0.0.0.0 yt6.ggpht.com 
+0.0.0.0 yt7.ggpht.com 
+0.0.0.0 yt8.ggpht.com 
+0.0.0.0 yt9.ggpht.com 
+0.0.0.0 yt.ggpht.com 
+0.0.0.0 gppht.com
+0.0.0.0 jep-asset.akamaized.net
+0.0.0.0 onesignal.com
+0.0.0.0 api.onesignal.com
+0.0.0.0 accounts.google.com
+0.0.0.0 video-api.yql.yahoo.com
+0.0.0.0 www.googleapis.com
+
+0.0.0.0 apis.google.com
+0.0.0.0 www.gstatic.com
 0.0.0.0 www.gstatic.com
 0.0.0.0 apis.google.com
 0.0.0.0 adservice.google.com
