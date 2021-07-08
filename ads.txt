@@ -29,10 +29,6 @@ ff02::3 ip6-allhosts
 #
 #                     --- YouTube Ad Blocklist ---
 # This project was created and is maintained by: Evan Pratten (@ewpratten)
-#doubt ads
-0.0.0.0 redirector.googlevideo.com
-0.0.0.0 m.youtube.com
-0.0.0.0 cdn.ampproject.org
 # More information at: https://github.com/Ewpratten/youtube_ad_blocklist
 0.0.0.0 yt0.ggpht.com 
 0.0.0.0 yt1.ggpht.com 
@@ -57,7 +53,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 apis.google.com
 0.0.0.0 www.gstatic.com
 0.0.0.0 www.gstatic.com
-0.0.0.0 apis.google.com
+
 0.0.0.0 adservice.google.com
 0.0.0.0 clients1.google.com
 0.0.0.0 googleadapis.l.google.com
@@ -357,7 +353,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rtd.tubemogul.com
 0.0.0.0 ad.youtube.com
 0.0.0.0 ads.youtube.com
-0.0.0.0 s.youtube.com
+
 0.0.0.0 s.ytimg.com
 0.0.0.0 2mdn.net
 0.0.0.0 s0.2mdn.net
