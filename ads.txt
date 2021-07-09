@@ -43,7 +43,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 jep-asset.akamaized.net
 0.0.0.0 onesignal.com
 0.0.0.0 api.onesignal.com
-0.0.0.0 accounts.google.com
 0.0.0.0 video-api.yql.yahoo.com
 
 0.0.0.0 www.gstatic.com
