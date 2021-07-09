@@ -45,9 +45,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.onesignal.com
 0.0.0.0 accounts.google.com
 0.0.0.0 video-api.yql.yahoo.com
-0.0.0.0 www.googleapis.com
-0.0.0.0 youtubei.googleapis.com
-0.0.0.0 youtube.googleapis.com
+
 0.0.0.0 www.gstatic.com
 0.0.0.0 adservice.google.com
 0.0.0.0 clients1.google.com

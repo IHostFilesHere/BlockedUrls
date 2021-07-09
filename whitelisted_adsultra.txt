@@ -10,3 +10,6 @@
 0.0.0.0 s.youtube.com
 0.0.0.0 cdn.ampproject.org
 0.0.0.0 apis.google.com
+0.0.0.0 www.googleapis.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
