@@ -30,6 +30,15 @@
 0.0.0.0 z.ytimg.com
 0.0.0.0 a.ytimg.com
 0.0.0.0 i.ytimg.com
+0.0.0.0 i1.ytimg.com
+0.0.0.0 i2.ytimg.com
+0.0.0.0 i3.ytimg.com
+0.0.0.0 i4.ytimg.com
+0.0.0.0 i5.ytimg.com
+0.0.0.0 i6.ytimg.com
+0.0.0.0 i7.ytimg.com
+0.0.0.0 i8.ytimg.com
+0.0.0.0 i9.ytimg.com
 0.0.0.0 w.ytimg.com
 0.0.0.0 k.ytimg.com
 0.0.0.0 q.yimg.com
