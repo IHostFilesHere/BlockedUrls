@@ -7,10 +7,8 @@
 0.0.0.0 i.instagram.com
 0.0.0.0 www.facebook.com
 #Youtube
-# redirector.googlevideo.com
+#0.0.0.0 redirector.googlevideo.com0.0.0.0 youtubei.googleapis.com0.0.0.0 youtube.googleapis.com
 0.0.0.0 cdn.ampproject.org
-0.0.0.0 youtubei.googleapis.com
-0.0.0.0 youtube.googleapis.com
 0.0.0.0 q.ytimg.com
 0.0.0.0 f.ytimg.com
 0.0.0.0 d.ytimg.com
