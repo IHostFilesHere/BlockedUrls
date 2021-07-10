@@ -6,8 +6,8 @@
 127.0.0.1 google-analytics.com
 0.0.0.0 i.instagram.com
 0.0.0.0 www.facebook.com
-#Youtube
-#0.0.0.0 youtubei.googleapis.com0.0.0.0 youtube.googleapis.com
+
+
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 cdn.ampproject.org
 0.0.0.0 q.ytimg.com
