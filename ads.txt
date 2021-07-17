@@ -12,6 +12,14 @@
 #                     --- YouTube Ad Blocklist ---
 # This project was created and is maintained by: Evan Pratten (@ewpratten)
 # More information at: https://github.com/Ewpratten/youtube_ad_blocklist
+0.0.0.0 cdn.fbsbx.com
+0.0.0.0 csm.as.criteo.net
+0.0.0.0 widget.hk.as.criteo.com
+0.0.0.0 cat.hk.as.criteo.com
+0.0.0.0 gum.criteo.com
+0.0.0.0 sync.teads.tv
+0.0.0.0 partners.tremorhub.com
+0.0.0.0 www.verizonmedia.com
 0.0.0.0 yt0.ggpht.com
 0.0.0.0 yt1.ggpht.com
 0.0.0.0 yt2.ggpht.com
